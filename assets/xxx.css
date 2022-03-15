@@ -1,0 +1,39 @@
+
+
+h2
+	{
+		text-align:center;
+		border-bottom:1px dashed #e8e8e8;	
+	}
+
+
+body > .container {
+  padding: 60px 15px 0;
+}
+.container .text-muted {
+  margin: 20px 0;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+code {
+  font-size: 80%;
+}
+
+.kotak
+	{
+		padding:10px;
+		border:1px solid #e8e8e8;
+		margin-bottom:15px;	
+		background:#F4F4F4;
+		border-radius:5px;
+	}
+.kotak2
+	{
+		padding:20px;
+		border:1px solid #e8e8e8;
+		margin-bottom:15px;	
+	}	
